@@ -16,6 +16,7 @@ const ImageUpload = props => {
     }
     const fileReader = new FileReader();
     fileReader.onload = () => {
+      props.image(fileReader.result)
       setPreviewUrl(fileReader.result);
     };
     fileReader.readAsDataURL(file);
