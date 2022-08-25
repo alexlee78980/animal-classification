@@ -62,6 +62,8 @@ function App() {
     window.open(`https://www.google.com/search?q=${prediction}+animal`)
   }
   const image = (result) => {
+    setDescription(null)
+    setPrediction(null)
     setPreview(result)
   }
   const triangle = <Triangle
