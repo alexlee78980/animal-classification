@@ -1,7 +1,7 @@
 # Animal Classier
 ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(17).png)
 ## Important
-The machine learning model is very large therefore wasnt uploaded to github
+The machine learning model is very large therefore wasn't uploaded to github
 ## What the application do?
 The project classify an image of an animal via link or upload to one of the 91 different types of animal in the machine learning model
 ## Performance of the Machine Learning Model
