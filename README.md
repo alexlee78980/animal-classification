@@ -1,9 +1,9 @@
 # Animal Classier
 ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(17).png)
 ## What the application do?
-The project classify an image of an animal via link or upload to one of the 91 different types of animal in the model
-
-
+The project classify an image of an animal via link or upload to one of the 91 different types of animal in the machine learning model
+## Performance of the Machine Learning Model
+The ML Model predict with an accuracy of 95.97%
 
 
 ## Animals the project can predict
