@@ -4,7 +4,9 @@
 The project classify an image of an animal via link or upload to one of the 91 different types of animal in the machine learning model
 ## Performance of the Machine Learning Model
 The ML Model predict with an accuracy of 95.97%
-
+## Who will use the project
+The project is inspired by google lens to get search results from an image. 
+- People who cant identify the animal they took a picture of can use this project to classify the animal
 
 ## Animals the project can predict
 ['antelope',
