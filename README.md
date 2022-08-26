@@ -10,7 +10,10 @@ The project is inspired by google lens to get search results from an image.
 
 ##Steps in usage of Project
 1) Input an animal image VIA link or upload
-2) ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(13).png)
+ ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(13).png)
+ ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(14).png)
+2) Send the image to classify the animal
+ ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(15).png)
 ## Animals the project can predict
 ['antelope',
  'badger',
