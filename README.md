@@ -1,4 +1,5 @@
 # Animal Classier
+![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(13).png)
 ## What the application do?
 The project that I propose to do this term is a stock gain or loss calculator. 
 After entering a number of stocks each stock containing:
