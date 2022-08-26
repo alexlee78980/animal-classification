@@ -7,7 +7,8 @@ The ML Model predict with an accuracy of 95.97%
 ## Who will use the project
 The project is inspired by google lens to get search results from an image. 
 - People who can't identify the animal they took a picture of can use this project to classify the animal
-
+## Important
+The machine learning model is very large therefore wasnt uploaded to github
 ## Steps in usage of Project
 1) Input an animal image VIA link or upload
  ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(13).png)
