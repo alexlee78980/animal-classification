@@ -15,7 +15,7 @@ The project is inspired by google lens to get search results from an image.
 2) Send the image to classify the animal
  ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(15).png)
 3) A description of the animal from Wikepedia API predicited with a learn more button for a google search of the animal will be returned
-4) ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(16).png)
+![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(16).png)
 ## Animals the project can predict
 ['antelope',
  'badger',
