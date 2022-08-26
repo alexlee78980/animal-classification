@@ -6,7 +6,7 @@ The project classify an image of an animal via link or upload to one of the 91 d
 
 
 
-##Animals the project can predict
+## Animals the project can predict
 ['antelope',
  'badger',
  'bat',
