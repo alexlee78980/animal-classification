@@ -1,4 +1,4 @@
-# Animal Classier
+# Game
 ![alt text](https://github.com/alexlee78980/game/blob/main/game_images/Screenshot%202022-08-28%20113229.jpg)
 ## Important
 The machine learning model is very large therefore wasn't uploaded to github
